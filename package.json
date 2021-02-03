@@ -1,0 +1,25 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goulbournlogan/mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goulbournlogan/mongodb/issues"
+  },
+  "homepage": "https://github.com/goulbournlogan/mongodb#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.11.13",
+    "validator": "^13.5.2"
+  }
+}
